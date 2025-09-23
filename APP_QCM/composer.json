@@ -1,0 +1,7 @@
+{
+    "require": {
+        "doctrine/dbal": "^3.10",
+        "tymon/jwt-auth": "^2.2",
+        "predis/predis": "^3.2"
+    }
+}
